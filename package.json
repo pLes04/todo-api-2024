@@ -1,0 +1,23 @@
+{
+  "name": "todo-api-2024",
+  "version": "1.0.0",
+  "description": "ini appp todo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "eslint": "^9.14.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.12.0",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
